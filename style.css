@@ -16,12 +16,19 @@
 
  section {
      display: flex;
+     align-items: center;
  }
 
  .mama {
      width: 50%;
+     padding-left: 10%;
  }
 
  .mama picture {
      width: 50%;
+
+ }
+
+ #die {
+     color: red;
  }
