@@ -1,0 +1,27 @@
+ body {
+     font-family: 'Fuzzy Bubbles', cursive;
+ }
+
+ h1 {
+     font-size: 60px;
+ }
+
+ .color {
+     color: orange;
+ }
+
+ .demon {
+     color: red;
+ }
+
+ section {
+     display: flex;
+ }
+
+ .mama {
+     width: 50%;
+ }
+
+ .mama picture {
+     width: 50%;
+ }
