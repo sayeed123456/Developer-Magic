@@ -3,14 +3,24 @@
      margin: 0%;
  }
 
- h1 {
+ .dhong {
      font-size: 60px;
      color: white;
      text-align: right;
  }
 
  h3 {
-     color: gold;
+     color: white;
+     background-image: linear-gradient(rgb(255, 12, 52), blue);
+     padding: 5% 10%;
+     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+
+ }
+
+ .bolod {
+     font-size: 40px;
+     color: blue;
+     text-align: center;
  }
 
  h2 {
@@ -21,24 +31,27 @@
      color: orange;
  }
 
- .demon {
-     color: red;
- }
+
 
  section {
      display: flex;
      align-items: center;
+     margin-bottom: 10px;
  }
 
  .mama {
-     width: 50%;
-     padding-left: 9%;
+     width: 80%;
+     padding-left: 5%;
+
+
 
  }
 
  .mami {
-     width: 40%;
-     padding-left: 12%;
+     width: 60%;
+     padding-left: 10%;
+     border-radius: 5%;
+
 
  }
 
@@ -59,4 +72,31 @@
      background-image: url(picturers/Screenshot\ 2022-10-24\ 012108.png);
      background-repeat: no-repeat;
      background-size: cover;
+ }
+
+ .rong {
+     font-size: 60px;
+     padding-top: 10%;
+ }
+
+ .big-dream {
+     background-image: url(picturers/Screenshot\ 2022-10-24\ 110540.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+     padding-bottom: 0%;
+
+ }
+
+ .button2 {
+     text-decoration: none;
+     background-image: linear-gradient(rgba(255, 166, 0, 0.871), purple);
+     font-weight: 500;
+     padding: 5px 10px;
+     border-radius: 10px;
+     color: black;
+     align-items: flex-end;
+     margin-left: 160px;
+     border: 2px solid red;
+
+
  }
