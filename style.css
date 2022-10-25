@@ -110,3 +110,40 @@ h2 {
 .orange-color {
     color: orange;
 }
+
+.Experience-area-2 {
+    box-shadow: 10px 10px 10px 10px gray;
+    width: 60%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url(picturers/Screenshot\ 2022-10-25\ 170717.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: 7px solid rgb(25, 25, 198);
+
+}
+
+.Experience-area {
+    padding-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-image: url(picturers/Screenshot\ 2022-10-25\ 140749.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+
+}
+
+.new-para {
+    color: black;
+}
+
+.symbol {
+    padding-left: 15%;
+}
+
+#Full-Stack-Developer {
+    border-top: 7px solid orange
+}
